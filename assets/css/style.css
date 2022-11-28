@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Comma seperated selectors to reduce repetition */
+/* Consolidated the below to increase readability */
 
 .benefit-lead,
 .benefit-brand,
