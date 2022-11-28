@@ -11,3 +11,7 @@ No installation necessary! However an internet browser is required. Link to webs
 ## Credits
 
 Orignal code and assets provided by Trilogy Education Services & edX LLC.
+
+## License
+
+Licensed under the MIT license details for which can be found here https://opensource.org/licenses/MIT
